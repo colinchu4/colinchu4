@@ -1,3 +1,4 @@
-i go to northeastern
-i used to go to unis in nyc
-before that i went to isf in hk
+Name: Colin Chu
+University: Northeastern University
+Major: Computer Science and Music Technology
+Expected Graduation Year: 2027
